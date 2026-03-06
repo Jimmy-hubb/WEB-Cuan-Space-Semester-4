@@ -196,11 +196,11 @@ http://localhost:8000
 
 Tambahkan screenshot aplikasi pada folder `images`.
 
-```
-![Home Page](images/home.png)
-![Product Page](images/products.png)
-![Admin Dashboard](images/admin.png)
-```
+![alt text](https://github.com/Jimmy-hubb/WEB-Cuan-Space-Semester-4/blob/main/resources/WhatsApp%20Image%202026-03-02%20at%2020.06.57.jpeg?raw=true)
+
+![alt text](https://github.com/Jimmy-hubb/WEB-Cuan-Space-Semester-4/blob/main/resources/WhatsApp%20Image%202026-03-06%20at%2019.01.50%20(1).jpeg?raw=true)
+
+![alt text](https://github.com/Jimmy-hubb/WEB-Cuan-Space-Semester-4/blob/main/resources/WhatsApp%20Image%202026-03-06%20at%2019.01.50.jpeg?raw=true)
 
 ---
 
